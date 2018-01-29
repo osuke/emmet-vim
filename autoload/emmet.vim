@@ -1650,6 +1650,9 @@ let s:emmet_settings = {
 \            '@r': "@return |",
 \        },
 \    },
+\    'stylus': {
+\        'extends': 'css',
+\    },
 \    'scss': {
 \        'extends': 'css',
 \    },
